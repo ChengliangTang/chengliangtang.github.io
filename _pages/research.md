@@ -4,14 +4,14 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
+# Research Interests
 - Weakly supervised learning
 - Functional data analysis
 - Medical image analysis
 - Spatial statistics
 - Remote sensing
 
-## Publications and Preprints
+# Publications and Preprints
 1. **Large‐scale, image‐based tree species mapping in a tropical forest using artificial perceptual learning**    
    <ins>Tang, Chengliang</ins>, Uriarte, Maria, Jin, Helen, Morton, Douglas C., and Zheng, Tian  
    \[[arXiv](https://arxiv.org/abs/2106.07559)\] \[[Journal](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13549)\]
