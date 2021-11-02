@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: 
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
-
-## Research Interests
 
 - Weakly supervised learning
 - Functional data analysis
