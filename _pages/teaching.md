@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor - Columbia University
-- Stat S1101: Introduction to Statistic. Summer 2021.
+- Stat S1101: Introduction to Statistic (Summer 2021)
 
 ## Teaching Assistant - Columbia University
 - Stat GU4205/GR5205: Linear Regression Models (Fall 2021) 
