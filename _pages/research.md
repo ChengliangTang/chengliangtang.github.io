@@ -28,6 +28,6 @@ author_profile: true
    \[[abstract](https://ui.adsabs.harvard.edu/abs/2020AGUFMB059...01U/abstract)\]
 
 4. **Wasserstein Distributional Learning** (In preparation)  
-   <ins>Tang, Chengliang</ins>, Ying, Wei, and Zheng, Tian
+   <ins>Tang, Chengliang</ins>, Wei, Ying, and Zheng, Tian
 
 
