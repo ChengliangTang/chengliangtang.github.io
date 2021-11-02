@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Interests
 - Weakly supervised learning
 - Functional data analysis
 - Medical image analysis
