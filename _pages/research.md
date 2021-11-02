@@ -15,7 +15,7 @@ author_profile: true
 
 ## Publications and Preprints
 
-1. **Large‐scale, image‐based tree species mapping in a tropical forest using artificial perceptual learning**    
+1. **Large‐scale, Image‐based Tree Species Mapping in a Tropical Forest using Artificial Perceptual Learning**    
    <ins>Tang, Chengliang</ins>, Uriarte, Maria, Jin, Helen, Morton, Douglas C., and Zheng, Tian  
    \[[arXiv](https://arxiv.org/abs/2106.07559)\] \[[Journal](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13549)\]
 
@@ -23,7 +23,7 @@ author_profile: true
    <ins>Tang, Chengliang</ins>, Yuan, Gan, and Zheng, Tian  
    \[[arXiv](https://arxiv.org/abs/2106.01485)\] \[[Journal](https://muse.jhu.edu/article/799736)\]
 
-4. **20th Century hurricanes leave long lasting legacies on tropical forest structure and composition** (In preparation)  
+4. **20th Century Hurricanes Leave Long Lasting Legacies on Tropical Forest Structure and Composition** (In preparation)  
    Uriarte, Maria, <ins>Tang, Chengliang</ins>, Morton, Douglas C., Zimmerman, J. K., and Zheng, Tian  
    \[[abstract](https://ui.adsabs.harvard.edu/abs/2020AGUFMB059...01U/abstract)\]
 
